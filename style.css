@@ -1,0 +1,14 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    text-align: center;
+}
+canvas{
+    background-color:white;
+    border:5px blue ridge;
+}
+button{
+    font-size: 25px;
+}
